@@ -4,10 +4,10 @@
 
 #### Team Members
 
-|Enrollment No. |	 Name	                       |   GithubId |
+|Enrollment No. |	 Name	                       | GithubId |
 |---------------|------------------------------|------------|
-|IIT2019   	|Nidhi Kamevar              	 ||
-|IIT2019   	|Vanshika Garg              	 ||
+|IIT2019189   	|Nidhi Kamewar              	 ||
+|IIT2019216   	|Vanshika Garg              	 ||
 |IIT2019227   	|Anshuman Bhardwaj          	 ||
 |IIT2019228   	|Anirudh Gupta              	 |anirudhkgupta222|
 |IIT2019235   	|Vishwam Shriram Mundada	     |Vishwam36   |
